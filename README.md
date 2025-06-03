@@ -57,17 +57,17 @@ $ npm run stats
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api?username=imiteshr&show_icons=true&theme=radical" height="165" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=false" height="165" />
+        <img src="https://streak-stats.demolab.com?user=imiteshr&theme=radical&hide_border=false" height="165" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imiteshr&layout=compact&theme=radical" />
 </div>
 
 
