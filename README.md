@@ -4,7 +4,7 @@
 ## 🖥️ Terminal Boot Sequence
 <pre>
 <span style="color: lime;">booting up profile<span class="cursor">...</span></span>
-<span style="color: lime;">establishing SSH connection to github.com/<b>your-github-username</b><span class="cursor">...</span></span>
+<span style="color: lime;">establishing SSH connection to github.com/<b>imiteshr</b><span class="cursor">...</span></span>
 <span style="color: lime;">fetching latest commits<span class="cursor">...</span></span>
 <span style="color: lime;">ready ✔</span>
 </pre>
